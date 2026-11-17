@@ -12,4 +12,6 @@ Jsem asistentka představenstva několika firem. Ve svém volném čase učím z
 **[Generátor promptů](https://generator.cenklova.cz)** – pomáhá začátečníkům naučit se psát zadání pro AI. Vyplníš, co víš, a prompt se ti poskládá sám, včetně vysvětlení, z čeho se dobrý prompt skládá.
 
 ## Kontakt
-🌐 [cenklova.cz](https://cenklova.cz)
+🌐 [cenklova.cz](https://cenklova.cz)  
+✉️ [kurzyai@cenklova.cz](mailto:kurzyai@cenklova.cz)  
+💼 [LinkedIn](https://www.linkedin.com/in/evacenklovava/)
